@@ -60,6 +60,8 @@ namespace TechJobs6Persistent.Controllers
             return View(employer);
         }
 
+
+
     }
 }
 
